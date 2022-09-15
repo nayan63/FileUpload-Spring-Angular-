@@ -1,0 +1,5 @@
+package com.nayan.file_upload.entity;
+
+public class FileInformation {
+
+}

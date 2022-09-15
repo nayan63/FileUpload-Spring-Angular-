@@ -1,0 +1,5 @@
+package com.nayan.file_upload.service;
+
+public class FileInformationService {
+
+}

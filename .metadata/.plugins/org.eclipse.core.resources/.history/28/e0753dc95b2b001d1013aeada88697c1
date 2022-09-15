@@ -1,0 +1,13 @@
+package com.nayan.file_upload.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.nayan.file_upload.service.FileInformationService;
+
+@RestController
+public class FileInformationController {
+
+	@Autowired
+	FileInformationService fileInfoService;
+}
